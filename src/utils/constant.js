@@ -1,0 +1,4 @@
+const PRIMARY_COLOR = "#55CB95";
+const DISABLE_COLOR = "#C8C8C8";
+
+export { PRIMARY_COLOR, DISABLE_COLOR };
